@@ -8,9 +8,9 @@ export default class Item extends Component {
             <div>
                 <section className="pt-4">
                     <div className="container px-lg-5">
-                        <div className="row px-lg-5">
+                        <div className="row gx-lg-5">
                             <div className="col-lg-6 col-xxl-4 mb-5">
-                                <div className="card border-0 bg-light mb-5">
+                                <div className="card border-0 bg-light">
                                     <div className="card-body pt-lg-0 p-4 p-lg-5 pt-0 text-center">
                                         <div className="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4">
                                             <i className="fa-solid fa-folder"></i>
@@ -21,7 +21,7 @@ export default class Item extends Component {
                                 </div>
                             </div>
                             <div className="col-lg-6 col-xxl-4 mb-5">
-                                <div className="card border-0 bg-light mb-5">
+                                <div className="card border-0 bg-light ">
                                     <div className="card-body pt-lg-0 p-4 p-lg-5 pt-0 text-center">
                                         <div className="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4">
                                             <i class="fa-solid fa-cloud-arrow-down"></i>
@@ -32,7 +32,7 @@ export default class Item extends Component {
                                 </div>
                             </div>
                             <div className="col-lg-6 col-xxl-4 mb-5">
-                                <div className="card border-0 bg-light mb-5">
+                                <div className="card border-0 bg-light">
                                     <div className="card-body pt-lg-0 p-4 p-lg-5 pt-0 text-center">
                                         <div className="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4">
                                             <i class="fa-solid fa-address-card"></i>
@@ -43,7 +43,7 @@ export default class Item extends Component {
                                 </div>
                             </div>
                             <div className="col-lg-6 col-xxl-4 mb-5">
-                                <div className="card border-0 bg-light mb-5">
+                                <div className="card border-0 bg-light">
                                     <div className="card-body pt-lg-0 p-4 p-lg-5 pt-0 text-center">
                                         <div className="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4">
                                             <i class="fa-brands fa-bootstrap"></i>
@@ -54,7 +54,7 @@ export default class Item extends Component {
                                 </div>
                             </div>
                             <div className="col-lg-6 col-xxl-4 mb-5">
-                                <div className="card border-0 bg-light mb-5">
+                                <div className="card border-0 bg-light">
                                     <div className="card-body pt-lg-0 p-4 p-lg-5 pt-0 text-center">
                                         <div className="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4">
                                             <i class="fa-solid fa-code"></i>
@@ -65,7 +65,7 @@ export default class Item extends Component {
                                 </div>
                             </div>
                             <div className="col-lg-6 col-xxl-4 mb-5">
-                                <div className="card border-0 bg-light mb-5">
+                                <div className="card border-0 bg-light ">
                                     <div className="card-body pt-lg-0 p-4 p-lg-5 pt-0 text-center">
                                         <div className="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4">
                                             <i class="fa-solid fa-circle-check"></i>
