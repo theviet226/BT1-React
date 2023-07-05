@@ -6,9 +6,9 @@ export default class Item extends Component {
     render() {
         return (
             <div>
-                <section className="py-5">
-                    <div className="container">
-                        <div className="row gx-lg-5">
+                <section className="pt-4">
+                    <div className="container px-lg-5">
+                        <div className="row px-lg-5">
                             <div className="col-lg-6 col-xxl-4 mb-5">
                                 <div className="card border-0 bg-light mb-5">
                                     <div className="card-body pt-lg-0 p-4 p-lg-5 pt-0 text-center">
