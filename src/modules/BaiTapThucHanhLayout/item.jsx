@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import './style.css'
-// import Style from "./style.module.css"
+
 
 export default class Item extends Component {
     render() {
